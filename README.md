@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meankitdas
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning proggraming
-- 💞️ I’m looking to collaborate on something
+- 🫡 I’m looking to collaborate on something
 - 📫 How to reach me : Instagram (@its.ankitdas)
 
 <!---
