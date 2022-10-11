@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/its_ankitdas" target="blank"><img src="https://img.shields.io/twitter/follow/its_ankitdas?logo=twitter&style=for-the-badge" alt="its_ankitdas" /></a> </p>
 
-- 🔭 I’m currently working on **Looking**
+- 🔭 I’m currently working on **Looking App !**
 
-- 🌱 I’m currently learning **Docker !**
+- 🌱 I’m currently learning **Docker!**
 
 - 👯 I’m looking to collaborate on **this project**
 
