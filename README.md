@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/its_ankitdas" target="blank"><img src="https://img.shields.io/twitter/follow/its_ankitdas?logo=twitter&style=for-the-badge" alt="its_ankitdas" /></a> </p>
 
-- 🔭 I’m currently working on **Looking App !**
+- 🔭 I’m currently working on **Looking App!**
 
 - 🌱 I’m currently learning **Docker!**
 
-- 👯 I’m looking to collaborate on **this project**
+- 🤝 I’m looking to collaborate on **this project**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/meankitdas](https://www.github.com/meankitdas)
 
-- 💬 Ask me about **react, javascript & python**
+- 💬 Ask me about **React, Javascript & Python**
 
 - 📫 How to reach me **its.ankitdas@gmail.com**
 
