@@ -1,5 +1,5 @@
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fintroduction-to-python-generators%2F&psig=AOvVaw24JO-rES9pUWZN1HICu7-i&ust=1669273308359000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjltObdw_sCFQAAAAAdAAAAABAc)
 <h1 align="center">Hi 👋, I'm Ankit Das</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
