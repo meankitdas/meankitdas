@@ -1,7 +1,9 @@
 ---
 
-<img align="right" style="margin-top: 20px" alt="Coding" width="400"  src="![image](https://github.com/meankitdas/meankitdas/assets/75267634/b0cc2dfc-cf65-42c3-b9a4-e17eff9fcda5)
+<img align="right" style="margin-top: 20px" alt="Coding" width="400"  src="
 " >
+
+![image](https://github.com/meankitdas/meankitdas/assets/75267634/b0cc2dfc-cf65-42c3-b9a4-e17eff9fcda5)
 
 ## 💫 About Me:
 🔭 I’m currently working on increasing my skills!<br>🌱 I’m currently learning Machine Learning!<br>🤝 I’m looking to collaborate on this project<br>👨‍💻 All of my projects are available at https://www.github.com/meankitdas<br>💬 Ask me about React, Javascript & Python<br>📫 How to reach me its.ankitdas@gmail.com<br>⚡ Fun fact I think I am mad !
