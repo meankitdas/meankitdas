@@ -1,8 +1,4 @@
 ---
-
-<img align="right" style="margin-top: 20px" alt="Coding" width="400"  src="
-" >
-
 ![image](https://github.com/meankitdas/meankitdas/assets/75267634/b0cc2dfc-cf65-42c3-b9a4-e17eff9fcda5)
 
 ## 💫 About Me:
