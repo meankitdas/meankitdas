@@ -2,7 +2,7 @@
 ![image](https://github.com/meankitdas/meankitdas/assets/75267634/b0cc2dfc-cf65-42c3-b9a4-e17eff9fcda5)
 
 ## 💫 About Me:
-🔭 I’m currently working on increasing my skills!<br>🌱 I’m currently learning Machine Learning!<br>🤝 I’m looking to collaborate on this project<br>👨‍💻 All of my projects are available at https://www.github.com/meankitdas<br>💬 Ask me about any related to tech<br>📫 How to reach me its.ankitdas@gmail.com<br>⚡ Fun fact I easily get bored!
+🔭 I’m currently working on increasing my skills!<br>🌱 I’m currently mastering the art of Machine Learning!<br>🤝 I’m looking to collaborate on this project<br>👨‍💻 All of my projects are available at https://www.github.com/meankitdas<br>💬 Ask me about any related to tech<br>📫 How to reach me its.ankitdas@gmail.com<br>⚡ Fun fact I easily get bored!
 
 
 
