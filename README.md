@@ -1,19 +1,58 @@
----
-![image](https://github.com/meankitdas/meankitdas/assets/75267634/b0cc2dfc-cf65-42c3-b9a4-e17eff9fcda5)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meankitdas.meankitdas" />
 
-## 💫 About Me:
-🔭 I’m currently working on increasing my skills!<br>🌱 I’m currently mastering the art of Machine Learning!<br>🤝 I’m looking to collaborate on this project<br>👨‍💻 All of my projects are available at https://www.github.com/meankitdas<br>💬 Ask me about any related to tech<br>📫 How to reach me its.ankitdas@gmail.com<br>⚡ Fun fact I easily get bored!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=E7F7F6&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Das!;" />
+</h1>
+
+<h3 align="center">A passionate AI full-stack developer from India 🇮🇳</h3>
+
+<br/>
+
+<div align="center">
+
+  🔭 Currently building **New Skills!**
+  
+  🌱 Mastering the art of **Machine Learning!**
+  
+  💬 Ask me about **Pytorch, MERN stack, Tensorflow... and [More](https://github.com/meankitdas)**
+  
+  ⚡ Fun fact **I Easily Get Bored!**
+  
+</div>
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/itsankitdas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://stackoverflow.com/users/14806495" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+<hr/>
+ 
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nextjs,flask,fastapi,express,sklearn,react" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,java" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redux" />
+    
+  <br>
+</div>
+
+<br/>
+<hr/>
 
 
 
+<h3 align="center"> 💰 You can help me by Donating 💰 </h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/its.ankitdas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meankitdas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsankitdas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14806495) [![X](https://img.shields.io/badge/X.com-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/its_ankitdas) 
-
-
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itsankitdas) 
-
+<div align="center">
+  <a href="https://buymeacoffee.com/itsankitdas">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</div>
   
 
