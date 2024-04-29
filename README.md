@@ -14,7 +14,7 @@
   
   🌱 Mastering the art of **Machine Learning!**
   
-  💬 Ask me about **Pytorch, MERN stack, Tensorflow... and [More](https://github.com/meankitdas)**
+  💬 Ask me about **Pytorch, MERN stack, Tensorflow and [More...](https://github.com/meankitdas)**
   
   ⚡ Fun fact **I Easily Get Bored!**
   
